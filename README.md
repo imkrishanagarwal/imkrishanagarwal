@@ -20,7 +20,7 @@ I'm a passionate MERN Stack Developer with a knack for creating portals and appl
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue)
 
 ## Major Projects
-### [CloudPortal](https://github.com/your-username/cloudportal)
+### [CloudPortal](https://cloud.synergificsoftware.com)
 A comprehensive portal for managing Azure VMs and GCP projects. Features include:
 - Creating, deleting, and managing VMs
 - Turning VMs on or off, restarting, and logging usage
@@ -31,7 +31,7 @@ A comprehensive portal for managing Azure VMs and GCP projects. Features include
 
 Technologies: Node.js, React, MySQL, MongoDB, Bull (for process management)
 
-### [LMS Portals with Moodle](https://github.com/your-username/lms-portals)
+### [LMS Portals with Moodle](https://learn.synergificsoftware.com)
 Deployed multiple Learning Management System portals for organizational use.
 
 ### [Profile Management App](https://github.com/your-username/profile-management-app)
@@ -49,8 +49,8 @@ I'm currently looking to contribute to public portals, websites, and Node.js app
 I know only two things: bike riding and coding. If I'm not in front of my laptop, I'm probably on the road with my bike.
 
 ## Contact Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/krishanag/)
+- Email: [imkrishanagarwal@gmail.com](mailto:imkrishanagarwal@gmail.com)
 
 ## GitHub Stats
-![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrishanagarwal&show_icons=true)
