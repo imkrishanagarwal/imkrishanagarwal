@@ -53,4 +53,5 @@ I know only two things: bike riding and coding. If I'm not in front of my laptop
 - Email: [imkrishanagarwal@gmail.com](mailto:imkrishanagarwal@gmail.com)
 
 ## GitHub Stats
-![Krishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrishanagarwal&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrishanagarwal&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishanagarwal)](https://github.com/imkrishanagarwal/github-readme-stats)
