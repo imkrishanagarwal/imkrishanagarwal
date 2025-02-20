@@ -1,57 +1,91 @@
 # Hi there, I'm Krishan Agarwal 👋
 
-## About Me
-I'm a passionate MERN Stack Developer with a knack for creating portals and applications with real-time implementations. I love working on projects that have a tangible impact and make everyday tasks easier.
+## 🚀 About Me
+I'm an **AI Cloud Engineer & Full-Stack Developer** passionate about building **AI-powered, cloud-native solutions** that make everyday tasks **smarter and more efficient**. I specialize in **Node.js, AI automation, and cloud infrastructure** optimization.
 
-- 💻 **Current Role:** MERN Stack Developer
-- ❤️ **Passion:** Building real-time, impactful applications and portals
-- 🌱 **Currently Learning:** Enhancing my skills in Node.js and MongoDB
-- 🚴 **Hobbies:** If I'm not coding, you can find me on the road with my bike!
+- 💻 **Current Role:** AI Cloud Engineer | Full-Stack Developer
+- 🤖 **Expertise:** AI-driven cloud automation, backend-heavy applications, microservices
+- 🌱 **Currently Learning:** Advanced AI automation & cloud cost optimization strategies
+- 🚴 **Hobbies:** When I'm not coding, you'll find me **riding my bike** or exploring new tech!
 
-## Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-JS-green)
-![React](https://img.shields.io/badge/React-JS-blue)
-![Express](https://img.shields.io/badge/Express-JS-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![Redux](https://img.shields.io/badge/Redux-State--Management-purple)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue)
+---
 
-## Major Projects
-### [CloudPortal](https://cloud.synergificsoftware.com)
-A comprehensive portal for managing Azure VMs and GCP projects. Features include:
-- Creating, deleting, and managing VMs
-- Turning VMs on or off, restarting, and logging usage
-- Creating and destroying GCP projects
-- Adding IAM users and setting budgets
-- Manual or auto-cleanup of resources to optimize costs
-- Role-based access control (Superadmin, Admin, Users)
+## 🛠 Skills & Technologies
 
-Technologies: Node.js, React, MySQL, MongoDB, Bull (for process management)
+### **💻 Backend & Microservices**
+- **Node.js** (REST, GraphQL, Microservices, MVC)
+- **API Development:** Express.js, Fastify
 
-### [LMS Portals with Moodle](https://learn.synergificsoftware.com)
-Deployed multiple Learning Management System portals for organizational use.
+### **🎨 Frontend & UI**
+- **React, React Native (Expo)**
+- **TailwindCSS, Shadcn UI**
 
-### [Profile Management App](https://github.com/your-username/profile-management-app)
-A project management app to maintain multiple profiles with the ability to:
-- Search based on commercials, locations, and skills
-- Attach PDF documents
-- Add remarks and reviews for each profile
+### **🤖 AI & Automation**
+- **LangChain, LangGraph, LangSmith**
+- **OpenAI, Gemini** (LLM-powered automation & AI chatbots)
 
-Technologies: Node.js, React, SQL
+### **☁️ Cloud & DevOps**
+- **Azure, GCP** (Cloud Management, Billing Automation)
+- **Docker, Kubernetes** (Intermediate)
+- **CI/CD:** GitHub Actions, GitHub Copilot, Pieces for Developers
 
-## Contributions and Goals
-I'm currently looking to contribute to public portals, websites, and Node.js applications, whether they are public or privately owned. 
+### **🗄 Databases**
+- **MongoDB, MySQL, PostgreSQL**
 
-## Fun Fact
-I know only two things: bike riding and coding. If I'm not in front of my laptop, I'm probably on the road with my bike.
+### **🔍 Testing & Automation**
+- **Selenium, CI/CD Pipelines**
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/krishanag/)
-- Email: [imkrishanagarwal@gmail.com](mailto:imkrishanagarwal@gmail.com)
+---
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishanagarwal)](https://github.com/imkrishanagarwal/github-readme-stats)
+## 🔥 Major Projects
+
+### [🚀 CloudPortal](https://cloud.synergificsoftware.com)
+A comprehensive **AI-powered cloud automation portal** for managing Azure & GCP resources. Features include:
+- **LLM-powered chatbot** for real-time cloud management
+- **Automated cost optimization** using AI-driven insights
+- **Role-based access control (RBAC)** for secure cloud operations
+- **Auto-cleanup** of unused resources to prevent cost leaks
+- **VM & GCP project management** (creation, deletion, monitoring)
+
+**Tech Stack:** Node.js, React, LangChain, OpenAI, MongoDB, MySQL, Docker
+
+---
+
+### [📌 CardShare](https://github.com/your-username/cardshare)
+A **peer-to-peer credit card sharing** platform helping users maximize e-commerce discounts.
+- Built with a **scalable full-stack architecture**
+- Used by **40+ circles with 200+ active users**
+
+**Tech Stack:** Node.js, React, MySQL
+
+---
+
+### [💈 Luzo (formerly Glamour)](https://github.com/your-username/luzo)
+A **parlor slot booking system** that minimizes customer wait times and optimizes unsold slots.
+- **Onboarded 200+ parlors across Bangalore & Mumbai**
+- **9000+ registered users**, processing **100+ bookings per month**
+
+**Tech Stack:** Node.js, React, MongoDB, Nginx
+
+---
+
+## 🌍 Contributions & Goals
+I'm always looking to contribute to **open-source AI, cloud automation, and backend-heavy applications**. If you have exciting projects, feel free to connect!
+
+---
+
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishanagarwal&layout=compact)](https://github.com/imkrishanagarwal/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrishanagarwal&show_icons=true)
+
+---
+
+## 📬 Contact Me
+📧 **Email:** [imkrishanagarwal@gmail.com](mailto:imkrishanagarwal@gmail.com)  
+🔗 **LinkedIn:** [Krishan Agarwal](https://www.linkedin.com/in/krishanag/)  
+💼 **GitHub:** [imkrishanagarwal](https://github.com/imkrishanagarwal)
+
+---
+
+## 🚴 Fun Fact
+I know only **two things:** **Bike riding & coding**. If I'm not in front of my laptop, I'm probably on the road! 😎
