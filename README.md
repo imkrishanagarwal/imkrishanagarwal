@@ -1,89 +1,101 @@
 # Hi there, I'm Krishan Agarwal 👋
 
 ## 🚀 About Me
-I'm an **AI Cloud Engineer & Full-Stack Developer** passionate about building **AI-powered, cloud-native solutions** that make everyday tasks **smarter and more efficient**. I specialize in **Node.js, AI automation, and cloud infrastructure** optimization.
+I'm a **Full-Stack Web Developer** passionate about building **scalable applications** and optimizing cloud infrastructure. I specialize in **Node.js**, **React**, and **cloud automation**, delivering efficient and user-friendly solutions.
 
-- 💻 **Current Role:** AI Cloud Engineer | Full-Stack Developer
-- 🤖 **Expertise:** AI-driven cloud automation, backend-heavy applications, microservices
-- 🌱 **Currently Learning:** Advanced AI automation & cloud cost optimization strategies
-- 🚴 **Hobbies:** When I'm not coding, you'll find me **riding my bike** or exploring new tech!
+- 💻 **Current Role:** Full-Stack Web Developer
+- 🔮 **Expertise:** Backend development, microservices, and cloud-native applications
+- 🌱 **Currently Learning:** Advanced Kubernetes deployments & AI integration
+- 🚴 **Hobbies:** When I'm not coding, I'm out **riding my bike** or exploring new tech!
 
 ---
 
 ## 🛠 Skills & Technologies
 
 ### **💻 Backend & Microservices**
-- **Node.js** (REST, GraphQL, Microservices, MVC)
-- **API Development:** Express.js, Fastify
+- **Node.js** (REST APIs, Microservices, MVC)
+- **Express.js** (Middleware, Authentication, API Gateway)
+- **Event-Driven Systems** (BullMQ, Redis)
+- **Authentication**: JWT, OAuth 2.0, Clerk
 
 ### **🎨 Frontend & UI**
-- **React, React Native (Expo)**
-- **TailwindCSS, Shadcn UI**
-
-### **🤖 AI & Automation**
-- **LangChain, LangGraph, LangSmith**
-- **OpenAI, Gemini** (LLM-powered automation & AI chatbots)
+- **React, React Native (Expo)** (SPA, PWA)
+- **TailwindCSS, Shadcn UI** (Modern & Responsive UI Design)
+- **Next.js** (SSR, Static Generation)
 
 ### **☁️ Cloud & DevOps**
-- **Azure, GCP** (Cloud Management, Billing Automation)
-- **Docker, Kubernetes** (Intermediate)
-- **CI/CD:** GitHub Actions, GitHub Copilot, Pieces for Developers
+- **Azure, GCP** (VMs, Billing, IAM Management)
+- **Docker, Kubernetes** (Containerization & Orchestration)
+- **CI/CD Pipelines** (GitHub Actions, Docker Compose)
 
-### **🗄 Databases**
-- **MongoDB, MySQL, PostgreSQL**
+### **📂 Databases**
+- **MongoDB, MySQL, PostgreSQL** (Schema Design, Query Optimization)
 
 ### **🔍 Testing & Automation**
-- **Selenium, CI/CD Pipelines**
+- **Testing:** Jest, Mocha, Cypress (Unit & Integration Testing)
+- **Automation:** CI/CD Pipelines
+
+### **💡 Tools & Skills**
+- **Version Control:** Git, GitHub
+- **Performance Optimization:** Caching (Redis), Code Splitting
 
 ---
 
 ## 🔥 Major Projects
 
 ### [🚀 CloudPortal](https://cloud.synergificsoftware.com)
-A comprehensive **AI-powered cloud automation portal** for managing Azure & GCP resources. Features include:
-- **LLM-powered chatbot** for real-time cloud management
-- **Automated cost optimization** using AI-driven insights
-- **Role-based access control (RBAC)** for secure cloud operations
-- **Auto-cleanup** of unused resources to prevent cost leaks
-- **VM & GCP project management** (creation, deletion, monitoring)
+An **AI-powered cloud automation** portal for managing Azure & GCP resources with advanced automation and cost optimization features.
+
+**Key Features:**
+- **AI-driven chatbot** for real-time cloud operations
+- **Automated cost tracking** with intelligent resource cleanup
+- **Role-based access control (RBAC)** for secure management
+- **Comprehensive VM & Project management**
 
 **Tech Stack:** Node.js, React, LangChain, OpenAI, MongoDB, MySQL, Docker
 
 ---
 
-### [📌 CardShare](https://github.com/your-username/cardshare)
-A **peer-to-peer credit card sharing** platform helping users maximize e-commerce discounts.
-- Built with a **scalable full-stack architecture**
-- Used by **40+ circles with 200+ active users**
+### [📌 CardShare](https://github.com/imkrishanagarwal/cardshare)
+A **peer-to-peer credit card sharing** platform designed to help users maximize e-commerce discounts.
+
+**Key Features:**
+- Scalable full-stack architecture
+- 200+ active users across 40+ private circles
 
 **Tech Stack:** Node.js, React, MySQL
 
 ---
 
-### [💈 Luzo (formerly Glamour)](https://github.com/your-username/luzo)
+### [💈 Luzo (formerly Glamour)](https://github.com/imkrishanagarwal/luzo)
 A **parlor slot booking system** that minimizes customer wait times and optimizes unsold slots.
-- **Onboarded 200+ parlors across Bangalore & Mumbai**
-- **9000+ registered users**, processing **100+ bookings per month**
+
+**Key Features:**
+- 9000+ users, 100+ bookings/month
+- Onboarded 200+ parlors across major cities
 
 **Tech Stack:** Node.js, React, MongoDB, Nginx
 
 ---
 
 ## 🌍 Contributions & Goals
-I'm always looking to contribute to **open-source AI, cloud automation, and backend-heavy applications**. If you have exciting projects, feel free to connect!
+I'm passionate about contributing to **open-source projects** focusing on **backend systems, cloud automation, and scalable applications**. Always open to exciting collaborations!
 
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishanagarwal&layout=compact)](https://github.com/imkrishanagarwal/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrishanagarwal&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkrishanagarwal&layout=compact&theme=radical)](https://github.com/imkrishanagarwal/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkrishanagarwal&show_icons=true&theme=radical)
 
 ---
 
-## 📬 Contact Me
-📧 **Email:** [imkrishanagarwal@gmail.com](mailto:imkrishanagarwal@gmail.com)  
-🔗 **LinkedIn:** [Krishan Agarwal](https://www.linkedin.com/in/krishanag/)  
-💼 **GitHub:** [imkrishanagarwal](https://github.com/imkrishanagarwal)
+## 💌 Contact Me
+
+- 📧 **Email:** [imkrishanagarwal@gmail.com](mailto:imkrishanagarwal@gmail.com)  
+- 🔗 **LinkedIn:** [Krishan Agarwal](https://www.linkedin.com/in/krishanag/)  
+- 💼 **GitHub:** [imkrishanagarwal](https://github.com/imkrishanagarwal)  
 
 ---
 
